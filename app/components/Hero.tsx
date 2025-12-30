@@ -14,7 +14,7 @@ export default function Hero() {
                 </h3>
                 <p className="text-base">
                     2nd MIAGE master&apos;s student in Amiens (France). I want to be a{" "}
-                    <Code>FullStack developer</Code>.
+                    <Code>UI/UX Designer</Code>.
                 </p>
             </div>
             <div className="flex-1 max-md:m-auto ml-auto">
