@@ -19,7 +19,7 @@ export default function Hero() {
       </div>
       <div className="flex-1 max-md:m-auto ml-auto">
         <Image
-          src="/profile.png"
+          src="/profile.jpg"
           width={200}
           height={200}
           className="w-full h-auto max-w-xs rounded-full"
