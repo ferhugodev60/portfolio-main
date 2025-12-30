@@ -19,7 +19,7 @@ export default function Header() {
                     <p className="text-foreground text-xs">CV</p>
                 </Link>
                 <Link 
-                    href="https://github.com/hferreiradev60"
+                    href="https://github.com/ferhugodev60"
                     className={cn(buttonVariants({ variant: "outline" }), "size-6 p-0")}
                 >
                     <GithubIcon size={15} className="text-foreground" />
